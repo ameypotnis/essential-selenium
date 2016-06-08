@@ -1,6 +1,6 @@
 clone project using command
 ```
-git clone git@github.com:ameypotnis/selenium-test-automation.git
+git clone git@github.com:ameypotnis/essential-selenium.git
 ```
 
 go to project directory and execute following commands
