@@ -26,6 +26,7 @@ public class SampleTest {
     @Test
     public void should() {
         //given
+        open("");
         //when
         //then
     }
